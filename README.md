@@ -2,6 +2,7 @@
 
 **Maintainer**: [@bradreeder](https://github.com/bradreeder)  
 
+Before We start we will take a look at [Cron Jobs](./LESSON0.md) That might help us in shell scripting.
 # Node Shell Workshop
 
 A tutorial that takes you through the basics of doing shell scripting with node.js. It culminates in a project using the lessons learned to build a small command-line tool.
