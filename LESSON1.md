@@ -209,4 +209,4 @@ your-name-here-grep pattern file.extension
 
 : - )
 
-[Click here to move on to LESSON 2](https://github.com/bradreeder/Node-Shell-Workshop/blob/master/LESSON2.md)
+[Click here to move on to LESSON 2](https://github.com/GSG-CA/Node-Shell-Workshop/blob/master/LESSON2.md)
