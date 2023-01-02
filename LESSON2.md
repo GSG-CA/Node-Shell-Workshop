@@ -365,4 +365,4 @@ process.openStdin() is a read stream!*
 ### Project
 
 With what we have covered in these two lessons, we now have everything we need to build some command-line tools! Move onto
-the [PROJECT.md]([../PROJECT.md](https://github.com/GSG-CA/Node-Shell-Workshop/blob/master/PROJECT.md)) when ready.
+the [PROJECT.md](https://github.com/GSG-CA/Node-Shell-Workshop/blob/master/PROJECT.md) when ready.
