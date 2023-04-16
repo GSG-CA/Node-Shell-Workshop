@@ -135,7 +135,7 @@ fs.readFile(index.html, function (err, file) {
 });
 ```
 
-If you want to see a detailed break-down on this at any point there are notes on this example stored [here.](https://github.com/FAC9/notes/blob/master/week4%265-Node/fs-readFile.md) It's not necessary to go into that much depth to do these exercises, the syntax you need is provided, just in case it provides any clarity.
+If you want to see a detailed break-down on this at any point there are notes on this example stored [here.](./fs-readFile.md) It's not necessary to go into that much depth to do these exercises, the syntax you need is provided, just in case it provides any clarity.
 
 #### Task
 
@@ -365,4 +365,4 @@ process.openStdin() is a read stream!*
 ### Project
 
 With what we have covered in these two lessons, we now have everything we need to build some command-line tools! Move onto
-the [PROJECT.md](https://github.com/bradreeder/Node-Shell-Workshop/blob/master/PROJECT.md) when ready.
+the [PROJECT.md](./PROJECT.md) when ready.

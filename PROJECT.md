@@ -107,7 +107,7 @@ Your output formatter should be implemented like so:
 node test.js | node output-formatter.js
 ```
 
-or, if you make it executable (follow the instructions in [LESSON1.md](https://github.com/bradreeder/Node-Shell-Workshop/blob/master/LESSON1.md) to do this):
+or, if you make it executable (follow the instructions in [LESSON1.md](./LESSON1.md) to do this):
 
 ```
 node test.js | output-formatter
@@ -139,7 +139,7 @@ Now we have created our own command-line tool, we have in effect created our
 own node module we can publish to the npm registry that others can
 install and use!
 
-Please first use the instructions in [LESSON1.md](https://github.com/bradreeder/Node-Shell-Workshop/blob/master/LESSON1.md) to make your script `node output-formatter.js` globally executable.
+Please first use the instructions in [LESSON1.md](./LESSON1.md) to make your script `node output-formatter.js` globally executable.
 
 #### Creating a user
 
